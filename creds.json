@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "beautex-cqwu",
+  "private_key_id": "2995e545ee12f24e6613eaa8535b421d8c2e0746",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCm24BDsz6LWJh7\nVnEYzXDcSbIwtcslOepaw8d/1S50dpS5ZXmCXn99OUYf8DjfgmAx1/sgVlUDjbTg\nLARbh2f7PQnJUOluyZR9fsO7xrry/k2kc+rTuRG4yyf6GZQ6t62y5gU2wvaHdLut\nuW0NDuf4FHuX+lYb7ovQB4c7RunqoI16Eeti25ry7RucZrG6lMcxNWA3y7TJufOK\nKLOYuw3T3vjdYaF54ogI+UyBfabrblsSDAumRiuz1pp1FZUGX3qOtEwo6miacJ4a\n/cvHpQDgIiclsWCJhTIsJ8TExrH2K0svrOSN28gVKOCc+CQfK5fFhM3TachY3amK\nMYPzX/U3AgMBAAECggEAR7IJaw2Z0kY/Pr/l2MJtvDnuVv/GSjiYemelUUhIrcJG\nJWN00o/IOAZkG1UdGuzqaIBlZ3+xB9Xb4ncHaEzGYS3ZBqe9pdz38PSHJig+LCsZ\nMZCdVlwvQTgJ9W0IRDKocDZmByG+zHVcL0l9kh7VjcM/WA448ceOS9TwRogx+p5Q\njuYJRUHa0gn+Szr6KR+3Xtrrx8IE+nHDZNt36H/J6qcPnV/KJ41sVN9kZdYOiP4A\n2y9XyE0r27pgkijkKCSyRFS7SV7II2KxyaffIU8SaJhZWtm/xsQ9BWNBlnX4DFae\n88Qp9vFJLfK5CLkSLOaxfkC0BpC3YYA8iUbpPU0gAQKBgQDPV/QmuNzts5/HP62K\n3PHPOwtgg9wyi616IW2fnfD3tqLyGSgE5XRq34+kLAXFJiZ2o/xXoxyDla1fwsqw\n3MXPhmqxq1HgDCOdUSjRsfALVCdnaBjtPKdFXLG11TujW1RcxXdP64JuJb6CbN++\nCz1KBZxbF6COSc2Qym3AR0g1SQKBgQDOA12Manm7B7HV6iqOrtscDBtbUJwxZtwz\n95PVsGRkRhkrYXeBv9omvat21O/XmPLbeUJwmO+VILj41kd9BpxWS7b9IESXqdaz\nldEdfgOdxJvlF+UCIcaeLWwaoRMSEySAW1g4K2kPLbURbeT0RzIZocdoxswnkOJx\nGVVXam9WfwKBgF1YyqmYNpapdLieeYH4AMF8Yp3cH4l+CubeH91pnO/ZALkgDD1Q\nFD59UczmqN5eU5i8MUI/Q/oVq81eBCTl8ASDDovYhm7o6CvOOyNVCa4AABF08yvz\nT5dRqQwk6Mmdt3hgyltnuvvd8EwFuiF0K+6kYgU8uOL2ZR7Xk9up+99JAoGAFrCE\nMxze/1xfl8HMoh5b/4DN2obMTRyZEBgqbhSZWfnmd8KqWN36dt3Y7qORLtunk8iN\nKr2NVY1fEfj3sqtxuIdqRgKxy0pnXSwY9fiVCWFIEjlJfayepXk3OM+YvBrjoEdv\nNfCCB6vvD1ZdKxJUUEJjJgUPIyRv7CjwH0qXrJ0CgYAKRvFXKphUGWdBvsPW1oZO\nPFj8BvNt1GVQOLr/uDrXy1nciNkrm/B3K73I+QwJOk2nSLYZFBJlQbeJy3vkgh9J\nXW62ngjrkFbRY6pUlytSGyVx5J9l3sgQK7d48j3sOsiqwahFH8b+J8u9YTQ1GST0\nHZfhsVGxQzLIA7FnbR9hhg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "beautex@beautex-cqwu.iam.gserviceaccount.com",
+  "client_id": "106941573992881417839",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/beautex%40beautex-cqwu.iam.gserviceaccount.com"
+}
