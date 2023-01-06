@@ -1,0 +1,10 @@
+{
+	"schemaVersion" :2 ,
+	"dockerfileLines" :[
+		"FROM python:latest",
+		"COPY ./ /app",
+		"WORKDIR /app",
+		"RUN pip install -r requirements.txt",
+		"CMD [ \"gunicorn\", \"--bind\", \"0.0.0.0:5555\", \"wsgi:app\" ]"
+	]
+}
